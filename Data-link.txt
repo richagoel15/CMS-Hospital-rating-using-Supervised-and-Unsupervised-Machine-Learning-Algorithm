@@ -1,0 +1,3 @@
+The data can be downloaded from the hospital compare website(https://data.medicare.gov/data/archives/hospital-compare)
+. You need to download 'Hospital_Revised_FlatFiles_20161110'
+
